@@ -14,7 +14,7 @@ class Solution{
         int maxreach=arr[0];
        
        
-       // int i=1;
+      
         for(int i=1;i<n;i++)
         {
             if(i==n-1)
